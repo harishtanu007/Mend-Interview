@@ -20,6 +20,16 @@ The project is based on a small web service which uses the following technologie
 You should be able to start the example application by executing com.myapp.MyappServer, which starts a webserver on port 9090 (http://localhost:9090) and serves Postman where can inspect and try existing endpoints.
 
 # React Front End application
+## Available Scripts
 
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
 # Useful commands
